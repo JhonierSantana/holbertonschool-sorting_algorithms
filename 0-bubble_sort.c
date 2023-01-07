@@ -1,11 +1,11 @@
 #include "sort.h"
 
 /**
-  * bubble_sort - A function for bubble sorting.
-  * @array: The array to sort.
-  * @size: THe length of the aaray.
-  * Return: Nothing.
-  */
+ * bubble_sort - A function for bubble sorting.
+ * @array: The array to sort.
+ * @size: THe length of the aaray.
+ * Return: Nothing.
+ */
 void bubble_sort(int *array, size_t size)
 {
 	size_t i = 0, j = 0;
